@@ -28,4 +28,4 @@
 
 #### - 
 
-#### - However, a limitation of this dataset is that it's not specific enough. While we can pull data for theater, music, games, food, etc. It would be extra beneficial to know the specific genre or additional subcategory. Theater for example, plays are the subcategory, but what genre do those plays represent? Classical, action, humor? You will still have to choose what genre your play will be about, you don't want to have a play that people aren't interested in.
+#### - However, a limitation of this dataset is that it's not specific enough. While we can pull data for theater, music, games, food, etc. It would be extra beneficial to know the specific sub-subcategory. Theater for example, plays are the subcategory, but what sub-subcategory do those plays represent? Classical, action, humor? You will still have to choose what genre your play will be about, you don't want to have a play that people aren't interested in. That seems the be the biggest flaw with this dataset, it lumps all subcategories into the same sub-subcategory when not all plays are the same.
