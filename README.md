@@ -4,5 +4,5 @@
 ---
 # Challenge
 ## 
-![Outcomes_BO_LaunchDate.png](Outcomes_BO_LaunchDate.png/to/Outcomes_BO_LaunchDate.png)
+![Outcomes_BO_LaunchDate.png](https://raw.githubusercontent.com/vrod237/Kickstarter-Analysis/master/Outcomes_BO_LaunchDate.png)
 
