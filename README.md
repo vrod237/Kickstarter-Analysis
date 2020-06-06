@@ -8,7 +8,9 @@
 ---
 ---
 ---
+---
 ![OBON](https://github.com/vrod237/Kickstarter-Analysis/blob/master/OutcomesBasedOnGoal.png)
 ---
 ---
 ---
+[Module1](https://github.com/vrod237/Kickstarter-Analysis/blob/master/Module_1_Victor.xlsx.zip?raw=true)
