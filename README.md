@@ -4,4 +4,5 @@
 ---
 # Challenge
 ## 
-![Outcomes_BO_LaunchDate.png](Kickstarter-Analysis/to/Outcomes_BO_LaunchDate.png)
+![Outcomes_BO_LaunchDate.png](Outcomes_BO_LaunchDate.png/to/Outcomes_BO_LaunchDate.png)
+
