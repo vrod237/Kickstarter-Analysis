@@ -11,7 +11,7 @@
 
 ---
 
-![Pivot_Table_and_Line_Chart_2](https://raw.githubusercontent.com/vrod237/Kickstarter-Analysis/master/Outcomes_BO_LaunchDate.png)
+![Pivot_Table_and_Line_Chart_2]<img src="https://raw.githubusercontent.com/vrod237/Kickstarter-Analysis/master/Outcomes_BO_LaunchDate.png" width="550">
 ##### The chart above displays the outcomes based on the launch month starting from October 2010.
 ###### ***FUN FACT*** - You can filter the graph in the Excel file below. Tab "Outcomes Based on Launch Date", you can filter by Parent Category and then filter the Subcategories as well. If needed, you can also sort through specific years starting from 2010.
 
@@ -31,6 +31,4 @@
 #### - However, a limitation of this dataset is that it's not specific enough. While we can pull data for theater, music, games, food, etc. It would be extra beneficial to know the specific sub-subcategory. Theater for example, plays are the subcategory, but what sub-subcategory do those plays represent? Classical, action, humor? You will still have to choose what genre your play will be about, you don't want to have a play that people aren't interested in. That seems the be the biggest flaw with this dataset, it lumps all subcategories into the same sub-subcategory when not all plays are the same.
 
 
-<img src="https://raw.githubusercontent.com/vrod237/Kickstarter-Analysis/master/Outcomes_BO_LaunchDate.png" width="550">
 
-<img src="https://github.com/vrod237/Kickstarter-Analysis/blob/master/OutcomesBasedOnGoal.png" width="600">
