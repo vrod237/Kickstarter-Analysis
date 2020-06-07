@@ -29,7 +29,7 @@
 
 #### - Regarding the play, Fever, unfortunately it was doomed from the start due to the number of backers. With only 10 backers, there was a 58% chance of failing but all campaigns with 10 or less backers had an 88% chance of failing. Now with more backers, the more successful campaigns would become as you can see per the graph below. But you would still have at least a 50% chance of failing until you reach 39 total backers which will give you a 51% chance of success rate. But something I noticed is that 16% of failed campaigns had 0 backers which skew the data. It would be interesting to know would how much money was spent on marketing/promotion to spread the word regarding campaigns, or if it was even attempted, and see how that played a part in the success/failure of the campaigns.
 
-![Outcomes_Based_On_Backers](https://github.com/vrod237/Kickstarter-Analysis/blob/master/OBOBT.png)
+![Outcomes_Based_On_Backers](https://github.com/vrod237/Kickstarter-Analysis/blob/master/OBOBT2.png)
 
 #### - However, a limitation of this dataset is that it's not specific enough. While we can pull data for theater, music, games, food, etc. It would be extra beneficial to know the specific sub-subcategory. Theater for example, plays are the subcategory, but what sub-subcategory do those plays represent? Classical, action, humor? You will still have to choose what genre your play will be about, you don't want to have a play that people aren't interested in. That seems the be the biggest flaw with this dataset, it lumps all subcategories into the same sub-subcategory when not all plays are the same.
 
