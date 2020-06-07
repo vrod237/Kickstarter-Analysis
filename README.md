@@ -11,7 +11,7 @@
 
 ---
 
-![Pivot_Table_and_Line_Chart_2]<img src="https://raw.githubusercontent.com/vrod237/Kickstarter-Analysis/master/Outcomes_BO_LaunchDate.png" width="550">
+<<img src="https://raw.githubusercontent.com/vrod237/Kickstarter-Analysis/master/Outcomes_BO_LaunchDate.png" width="600">
 ##### The chart above displays the outcomes based on the launch month starting from October 2010.
 ###### ***FUN FACT*** - You can filter the graph in the Excel file below. Tab "Outcomes Based on Launch Date", you can filter by Parent Category and then filter the Subcategories as well. If needed, you can also sort through specific years starting from 2010.
 
