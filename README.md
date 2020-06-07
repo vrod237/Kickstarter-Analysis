@@ -33,4 +33,4 @@
 
 <img src="https://raw.githubusercontent.com/vrod237/Kickstarter-Analysis/master/Outcomes_BO_LaunchDate.png" width="550">
 
-<img src="https://github.com/vrod237/Kickstarter-Analysis/blob/master/OutcomesBasedOnGoal.png" width="450">
+<img src="https://github.com/vrod237/Kickstarter-Analysis/blob/master/OutcomesBasedOnGoal.png" width="600">
